@@ -23,3 +23,4 @@ print(test_labels.dtype) # uint8
    
 2. test_images에 대한 예측을 네트어크에 요청
    -> 이 예측이 test_labels와 맞는지 확인
+'''
